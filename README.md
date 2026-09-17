@@ -241,16 +241,6 @@ NLP-based fake news classification project using TF-IDF and machine-learning tec
 
 🔗 [View Repository](https://github.com/sadatnuman/Fake-News-Detection-using-NLP-Machine-Learning)
 
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sadatnuman&show_icons=true&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadatnuman&layout=compact&hide_border=true" />
-</p>
-
----
 
 # 🤝 Connect With Me
 
