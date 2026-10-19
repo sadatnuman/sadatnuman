@@ -1,262 +1,323 @@
 <h1 align="center">Hi 👋, I'm MD. Nazmus Sadat Numan</h1>
 
 <h3 align="center">
-Software Engineer | Building Scalable Web Applications, APIs & Database-Driven Solutions
+Software Engineering | Full-Stack Applications, Multi-Tenant SaaS & Secure APIs
 </h3>
 
 <p align="center">
-  <a href="https://github.com/sadatnuman">
-    <img src="https://komarev.com/ghpvc/?username=sadatnuman&label=Profile%20Views&style=flat" />
-  </a>
+  Final-year CSE student at AIUB · Software Engineering Intern at Byte Innovations
+  <br />
+  Dhaka, Bangladesh
+</p>
+
+<p align="center">
+  <a href="https://sadatnuman1.github.io/MD.-Nazmus-Sadat-Numan-Portfolio/">Portfolio</a>
+  &nbsp;•&nbsp;
+  <a href="https://sadatnuman1.github.io/MD.-Nazmus-Sadat-Numan-Portfolio/assets/Nazmus-Sadat-Numan-CV.pdf">View CV</a>
+  &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/md-nazmus-sadat-numan/">LinkedIn</a>
+  &nbsp;•&nbsp;
+  <a href="mailto:nazmussadatnuman92@gmail.com">Email</a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **Software Engineer** with hands-on experience in frontend and backend development, database-driven system design, REST API development, API integration, software testing, and modern web application development.
+I am a final-year **Computer Science and Engineering** student at **American International University-Bangladesh (AIUB)**, majoring in **Software Engineering**, with a **CGPA of 3.70 / 4.00**.
 
-I enjoy building complete software solutions — from responsive user interfaces and backend architecture to databases, authentication, APIs, third-party integrations, testing, and deployment.
+At **Byte Innovations**, I independently develop full-stack applications and multi-tenant SaaS systems covering HR management, recruitment workflows, and a corporate career portal. I also collaborate on selected enhancements to a business management and POS application.
 
-My primary interests include:
+My work includes responsive interfaces, backend APIs, relational database design, secure authentication, role-based authorization, and application deployment.
 
-- 🌐 Modern Web Application Development
-- ⚙️ Backend Architecture & REST APIs
-- 🗄️ Database-Driven Application Design
-- 🔗 API & Third-Party System Integration
-- 🏢 SaaS & Enterprise Software
-- 🤖 AI Automation & Intelligent Applications
-- 🧪 Cypress Testing & QA Automation
-- 🚀 Scalable Application Development
+Alongside software development, I conduct academic research in **reinforcement learning** and **requirements engineering for remote-first SaaS teams**.
+
+- 🏢 Building multi-tenant HR and recruitment systems.
+- ⚙️ Developing secure APIs and database-driven applications.
+- 🌐 Working with Laravel, NestJS, Next.js, React, and Vue.
+- 🔬 Researching adaptive human recognition and requirements engineering.
+- 🤝 Interested in software engineering opportunities and collaboration.
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-## 🎨 Frontend Development
+### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,php,cs,java,cpp" alt="TypeScript, JavaScript, Python, PHP, C#, Java, C++" />
 </p>
 
-**Technologies & Concepts**
+`TypeScript` • `JavaScript` • `Python` • `PHP` • `C#` • `Java` • `C++` • `SQL` • `PL/SQL`
 
-`Next.js` • `React.js` • `TypeScript` • `JavaScript (ES6+)` • `HTML5` • `CSS3` • `Tailwind CSS` • `Responsive Web Design` • `Component-Based UI` • `Figma-to-Code`
-
----
-
-## ⚙️ Backend Development
+### 🎨 Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,dotnet,cs,laravel,php" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,tailwind" alt="React, Next.js, Vue, HTML, CSS, Tailwind CSS" />
 </p>
 
-**Technologies & Concepts**
+`React` • `Next.js` • `Vue 3` • `HTML5` • `CSS3` • `Tailwind CSS` • `Responsive Interfaces`
 
-`NestJS` • `Node.js` • `ASP.NET Core` • `C#` • `Laravel` • `PHP` • `REST API Development` • `MVC Architecture` • `3-Tier Architecture` • `Repository Pattern` • `Dependency Injection`
-
----
-
-## 🗄️ Database Technologies
+### ⚙️ Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=nestjs,laravel,nodejs,dotnet" alt="NestJS, Laravel, Node.js, .NET" />
 </p>
 
-**Database Stack**
+`NestJS` • `Laravel` • `Node.js` • `ASP.NET Core MVC` • `REST APIs` • `JWT Authentication` • `Role-Based Access Control`
 
-`PostgreSQL` • `MongoDB` • `MySQL` • `Microsoft SQL Server` • `Oracle Database` • `SQL` • `PL/SQL` • `LINQ`
+**Architecture & Application Design**
 
-**Database Engineering**
+`Multi-Tenant SaaS` • `MVC` • `3-Tier Architecture` • `Repository Pattern` • `Dependency Injection` • `Organization Workspaces` • `Tenant Database Isolation`
 
-`Database Design` • `Database Normalization` • `Data Modeling` • `Relational Database Design` • `Stored Procedures` • `Triggers` • `Database Integration`
-
----
-
-## 🔗 API & Backend Engineering
+### 🗄️ Databases & ORM
 
 <p>
-  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/API_Integration-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens" />
-  <img src="https://img.shields.io/badge/RBAC-4A90E2?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma" alt="PostgreSQL, MySQL, MongoDB, Prisma" />
 </p>
 
-`REST APIs` • `API Integration` • `Third-Party API Integration` • `JSON` • `HTTP` • `JWT Authentication` • `Authentication & Authorization` • `Role-Based Access Control (RBAC)` • `Middleware` • `File Upload` • `Email Integration` • `Business Logic Development`
+`PostgreSQL` • `MySQL` • `MongoDB` • `Oracle Database` • `SQL Server` • `Prisma` • `Eloquent`
 
----
+**Database Development**
 
-## 🧪 Testing & Quality Assurance
+`Relational Modeling` • `Normalization` • `Stored Procedures` • `PL/SQL Packages` • `Triggers` • `Complex Queries` • `Exception Handling`
+
+### 🚀 Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cypress,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,vercel,cloudflare" alt="Git, GitHub, Postman, Docker, Vercel, Cloudflare" />
 </p>
 
-`Cypress` • `End-to-End Testing` • `API Testing` • `UI Testing` • `Regression Testing` • `Functional Testing` • `Postman` • `Debugging` • `Software Testing` • `QA Automation`
+`Git` • `GitHub` • `Git CLI` • `Terminal` • `Shell Commands` • `Postman` • `Docker` • `Vercel` • `Cloudflare`
+
+**Operating Systems:** `macOS (Unix-based)` • `Windows 11`
+
+### 🔬 Research & Applied AI
+
+`Reinforcement Learning` • `Double-DQN` • `Human Recognition` • `Natural Language Processing` • `BERT` • `RoBERTa` • `TF-IDF` • `Scikit-learn` • `Requirements Engineering`
 
 ---
 
-## 🤖 AI, ML & Automation
+## 🏢 Professional Experience
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
+### Byte Innovations — Software Engineering Intern
 
-`Artificial Intelligence` • `Machine Learning` • `Natural Language Processing` • `Generative AI` • `AI Automation` • `AI Integration` • `LLM Concepts` • `RAG Concepts` • `Prompt Engineering` • `Workflow Automation`
+**Dhaka, Bangladesh**  
+**1 September 2026 – 30 November 2026 · Three-month internship**
 
-**ML / NLP Experience**
+Independent development of full-stack applications and multi-tenant SaaS systems, alongside team contributions to business management software.
 
-`BERT` • `RoBERTa` • `Scikit-learn` • `NLTK`
+### 👥 Expert HRMS (SHOCHOL)
+
+**Status:** Ongoing development  
+**Stack:** Laravel 12 • Vue 3 • TypeScript • MySQL • Docker • Cloudflare
+
+- Independently developing a multi-tenant HR management system.
+- Implementing isolated tenant databases and subdomain-based workspaces.
+- Building role-based authorization and employee management.
+- Developing attendance, leave approvals, payroll, and income-tax processing.
+- Implementing audit logs and secure PDF documents.
+
+🔗 [Visit SHOCHOL](https://shochol.xyz/)
+
+### 📋 Expert ATS
+
+**Status:** Ongoing development · Private company project  
+**Stack:** Next.js 16 • React 19 • NestJS 12 • TypeScript • PostgreSQL • Prisma
+
+- Independently building a multi-tenant applicant tracking platform.
+- Developing organization workspaces, job publishing, and recruitment pipelines.
+- Implementing permission-based access and secure REST APIs.
+- Building candidate profiles and resume-processing workflows.
+- Developing consent-aware AI-assisted recruitment and shortlisting.
+
+🔒 Private project — no public repository or application URL.
+
+### 🌐 Byte Innovations Corporate Website
+
+**Status:** Live  
+**Stack:** Next.js 16 • React 19 • JavaScript • MongoDB Atlas • Nodemailer • Vercel
+
+- Independently designed, developed, and deployed the responsive corporate website.
+- Built service pages, portfolio showcases, and Google Analytics integration.
+- Implemented dynamic job listings backed by MongoDB.
+- Developed career applications with resume uploads.
+- Added validated contact forms and SMTP email notifications.
+
+🔗 [Visit Website](https://www.b-innovations.com/)
+
+### 🧾 Expert POS
+
+**Contribution:** Team collaboration  
+**Stack:** Laravel • PHP • MySQL • JavaScript
+
+- Contributed to selected development tasks and enhancements.
+- Collaborated on a shared POS and business management application.
+- Worked within a system supporting sales, inventory, purchasing, accounting, and multi-location operations.
+
+🔗 [Visit Expert POS](https://expertpos.xyz/)
 
 ---
 
-## 🚀 DevOps, Deployment & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,npm,vscode" />
-</p>
-
-`Git` • `GitHub` • `npm` • `Environment Variables` • `Version Control` • `Application Deployment` • `VS Code`
-
-**Currently Strengthening**
-
-`Docker` • `CI/CD` • `Linux` • `Cloud Deployment`
-
----
-
-## 💻 Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,cs,cpp,java,python,php" />
-</p>
-
-`JavaScript` • `TypeScript` • `C#` • `C++` • `Java` • `Python` • `PHP` • `SQL` • `PL/SQL`
-
----
-
-## 🏗️ Software Engineering
-
-`Software Engineering` • `Full-Stack Development` • `Frontend Development` • `Backend Development` • `Software Architecture` • `Backend Architecture` • `Scalable Application Design` • `Clean Code` • `SOLID Principles` • `Object-Oriented Programming` • `Data Structures & Algorithms` • `SDLC` • `Agile/Scrum` • `Requirement Analysis`
-
----
-
-## 🏢 Enterprise & Business Applications
-
-`SaaS Development` • `Enterprise Software` • `Custom Software Development` • `Dashboard Development` • `E-commerce Systems` • `ERP Fundamentals` • `CRM Concepts` • `Business Process Automation` • `Application Maintenance` • `System Integration`
-
----
-
-## 📚 Currently Exploring
-
-<p>
-  <img src="https://skillicons.dev/icons?i=django,fastapi,docker" />
-</p>
-
-`Django` • `FastAPI` • `n8n` • `Docker` • `CI/CD` • `Cloud Deployment`
-
----
-
-# 🌟 Featured Projects
+## 🎓 Academic Projects
 
 ### 🛒 Solix Clothing Brand — Full-Stack E-commerce Platform
 
-**Next.js • React • NestJS • PostgreSQL**
+**Stack:** NestJS • Next.js • React • PostgreSQL • JWT • RBAC
 
-- JWT Authentication & Role-Based Access Control
-- Product, Category & Variant Management
-- Cart & Checkout Workflow
-- Order Processing
-- Stock Validation
-- Payment Workflow
-- Admin Dashboard
-- Image Upload
-- Email Notifications
+- Developed secure authentication and role-based access.
+- Built cart, checkout, and order-processing workflows.
+- Designed a normalized PostgreSQL database.
+- Implemented inventory validation, payment workflows, administrative analytics, and email notifications.
 
 🔗 [View Repository](https://github.com/sadatnuman/Solix-Clothing-Brand)
 
----
+### 📰 NewsArchive — News Management System
 
-### 📰 NewsArchive — ASP.NET Core MVC
+**Stack:** ASP.NET Core MVC • C# • SQL Server
 
-**ASP.NET Core • C# • SQL Server**
-
-- 3-Tier Architecture
-- Repository Pattern
-- Dependency Injection
-- CRUD Operations
-- Search & Filtering
-- Role-Based Access Control
-- Analytics Dashboard
+- Built a news management platform with three-tier architecture.
+- Applied the Repository Pattern and dependency injection.
+- Implemented content CRUD, advanced search, and filtering.
+- Added trending, recommendation features, and role-based authentication.
 
 🔗 [View Repository](https://github.com/sadatnuman/News-Archive-.Net-Core-MVC-3-tier-Architecture-)
 
----
-
 ### 🗃️ University Admission Management System
 
-**Oracle SQL • PL/SQL**
+**Stack:** Oracle Database • SQL • PL/SQL
 
-- Normalized relational database design
-- Stored Procedures
-- PL/SQL Packages
-- Database Triggers
-- Exception Handling
-- Complex SQL Queries
+- Designed a normalized database for applicants, programs, applications, payments, and admission evaluation.
+- Implemented PL/SQL packages, stored procedures, and database triggers.
+- Developed complex queries and exception handling.
 
 🔗 [View Repository](https://github.com/sadatnuman/University-Admission-Management-System-DBProject)
 
----
+### 🤖 AI Content Detection using BERT & RoBERTa
 
-### 🛍️ Meat Bazar — Digital Supply Chain & E-commerce System
+**Stack:** Python • NLP • Machine Learning • BERT • RoBERTa
 
-**HTML • CSS • JavaScript • PHP • MySQL**
-
-- Multi-role application
-- Authentication
-- Inventory Management
-- Order Processing
-- Payment Handling
-- Order Tracking
-- Relational Database Design
-
-🔗 [View Repository](https://github.com/sadatnuman/Meat-Bazar-Digital-Supply-Chain-E-commerce-System-)
-
----
-
-### 🤖 AI Content Detection
-
-**Python • BERT • RoBERTa • NLP**
-
-Machine learning and NLP-based text classification system for distinguishing AI-generated content from human-written content.
+- Developed a text-classification workflow to distinguish AI-generated and human-written content.
+- Used pretrained transformer models for comparative classification.
+- Evaluated accuracy, precision, recall, and F1-score.
 
 🔗 [View Repository](https://github.com/sadatnuman/AI-Content-Detection-using-BERT-RoBERTa)
 
----
+### 🛍️ Meat Bazar — Digital Supply Chain & E-commerce
+
+**Stack:** PHP • MySQL • JavaScript • HTML • CSS
+
+- Developed a multi-role platform for customers, administrators, distributors, and collectors.
+- Implemented CRUD operations, inventory management, and authentication.
+- Applied Agile Scrum planning, UML, WBS, Gantt charts, and COCOMO estimation.
+
+🔗 [View Repository](https://github.com/sadatnuman/Meat-Bazar-Digital-Supply-Chain-E-commerce-System-)
 
 ### 📰 Fake News Detection
 
-**Python • NLP • Scikit-learn • NLTK**
+**Stack:** Python • Scikit-learn • NLTK • TF-IDF
 
-NLP-based fake news classification project using TF-IDF and machine-learning techniques.
+- Built an NLP classification pipeline using approximately 25,000 news articles.
+- Applied text cleaning, TF-IDF vectorization, and Multinomial Naive Bayes.
+- Performed feature engineering and classification evaluation.
 
-🔗 [View Repository](https://github.com/sadatnuman/Fake-News-Detection-using-NLP-Machine-Learning)
+🔗 [View Repository](https://github.com/sadatnuman/Fake-News-Detection-using-NLP-MachineLearning)
 
+### 🌆 Seaside City — 2D Animated Simulation
 
-# 🤝 Connect With Me
+**Stack:** C++ • OpenGL • GLUT
 
-<p>
-  <a href="https://www.linkedin.com/in/md-nazmus-sadat-numan">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+- Built a real-time city simulation with more than 25 animated graphical objects.
+- Implemented vehicles, ships, planes, clouds, wind turbines, and environmental effects.
+- Used modular rendering for real-time updates.
 
-  <a href="mailto:nazmussadatnuman92@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+🔗 [View Repository](https://github.com/sadatnuman/Seaside-City-2D-Animated-Graphics-Simulation)
 
-  <a href="https://sadatnuman1.github.io/MD.-Nazmus-Sadat-Numan-Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+### ✈️ Let's Travel — Travel Management System
+
+**Stack:** C# • .NET WinForms • SQL Server
+
+- Developed a desktop application with travel-package and booking workflows.
+- Implemented role-based authentication and separate admin and user dashboards.
+- Integrated SQL Server for data management.
+
+🔗 [View Repository](https://github.com/sadatnuman/Let-s-Travel-Travel-Management-System)
+
+### 📚 Vidyasagar Book Store Management System
+
+**Stack:** Java • Swing
+
+- Developed a GUI application with login, registration, and CAPTCHA validation.
+- Built an admin dashboard for managing books and users.
+- Used JTable for data visualization and management.
+
+🔗 [View Repository](https://github.com/sadatnuman/Vidyasagar-Book-Store-Management-System)
+
+---
+
+## 🔬 Research Experience
+
+### Adaptive Human Recognition via Sequential Reinforcement Learning and Evidence-Driven Module Selection
+
+**BSc Thesis · 2026**
+
+- Co-researched a budget-aware human recognition framework using **Double-DQN**.
+- Combined face, appearance, posture, and scene-context evidence.
+- Evaluated a **600-identity protocol** against **seven baselines**.
+- The thesis reports **62.0% mean top-1 accuracy across 10 seeds**.
+
+### RE-M3S: Requirements Engineering Maturity Model for Remote-First SaaS Startups
+
+**Research Manuscript · 2026**
+
+- Co-designed a **five-level, eight-dimension** requirements engineering framework.
+- Focused on distributed SaaS teams and remote-first development.
+- Analytically assessed **390,625 possible profiles**.
+- Applied a conservative lower-median scoring approach.
+
+---
+
+## 🎓 Education
+
+### American International University-Bangladesh (AIUB)
+
+**BSc in Computer Science and Engineering**  
+2026 · Final Year
+
+- **Major:** Software Engineering
+- **CGPA:** 3.70 / 4.00
+
+### Trust College, Uttara
+
+**Higher Secondary Certificate — Science**  
+2021
+
+- **GPA:** 5.00 / 5.00
+
+---
+
+## 🏅 Certification & Affiliations
+
+- **Cisco IT Essentials** — Cisco Networking Academy, 2022
+- **IEEE Student Member** — 2025
+- **IEEE Computer Society Member** — 2025
+
+---
+
+## 🌱 Activities & Interests
+
+`Software Engineering` • `Requirements Engineering` • `Multi-Tenant SaaS` • `Backend Development` • `Database Systems` • `REST API Architecture` • `Reinforcement Learning` • `AI & NLP` • `Technical Mentoring` • `Continuous Learning`
+
+---
+
+## 🤝 Connect With Me
+
+- 🌐 **Portfolio:** [sadatnuman1.github.io/MD.-Nazmus-Sadat-Numan-Portfolio](https://sadatnuman1.github.io/MD.-Nazmus-Sadat-Numan-Portfolio/)
+- 💼 **LinkedIn:** [MD. Nazmus Sadat Numan](https://www.linkedin.com/in/md-nazmus-sadat-numan/)
+- 🐙 **GitHub:** [@sadatnuman](https://github.com/sadatnuman)
+- 📧 **Email:** [nazmussadatnuman92@gmail.com](mailto:nazmussadatnuman92@gmail.com)
+- 📄 **CV:** [View CV](https://sadatnuman1.github.io/MD.-Nazmus-Sadat-Numan-Portfolio/assets/Nazmus-Sadat-Numan-CV.pdf)
+- 📍 **Location:** Dhaka, Bangladesh
 
 ---
 
@@ -265,5 +326,5 @@ NLP-based fake news classification project using TF-IDF and machine-learning tec
 </p>
 
 <p align="center">
-  Building scalable, reliable and maintainable software solutions.
+  Building useful software through thoughtful engineering and continuous learning.
 </p>
