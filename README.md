@@ -1,26 +1,28 @@
-<h1 align="center">Hi 👋, I'm MD. Nazmus Sadat Numan</h1>
+<div align="center">
 
-<h3 align="center">
-Software Engineering | Full-Stack Applications, Multi-Tenant SaaS & Secure APIs
-</h3>
+<p><strong>SOFTWARE ENGINEERING · FULL-STACK DEVELOPMENT · MULTI-TENANT SAAS</strong></p>
 
-<p align="center">
-  Final-year CSE student at AIUB · Software Engineering Intern at Byte Innovations
-  <br />
-  Dhaka, Bangladesh
+# Hi, I'm MD. Nazmus Sadat Numan 👋
+
+### Building useful software, from interface to infrastructure.
+
+Final-year CSE student at **AIUB** · Software Engineering Intern at **Byte Innovations**  
+Bashundhara R/A, Dhaka, Bangladesh
+
+<p>
+  <a href="https://sadatnuman1.github.io/MD.-Nazmus-Sadat-Numan-Portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-Visit_Website-0284C7?style=for-the-badge" alt="Visit my portfolio" /></a>
+  <a href="https://sadatnuman1.github.io/MD.-Nazmus-Sadat-Numan-Portfolio/assets/Nazmus-Sadat-Numan-CV.pdf?v=20261021"><img src="https://img.shields.io/badge/CV-View_Resume-334155?style=for-the-badge" alt="View my CV" /></a>
+  <a href="https://www.linkedin.com/in/md-nazmus-sadat-numan/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:nazmussadatnuman92@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Let's_Talk-0F766E?style=for-the-badge" alt="Send me an email" /></a>
 </p>
 
-<p align="center">
-  <a href="https://sadatnuman1.github.io/MD.-Nazmus-Sadat-Numan-Portfolio/">Portfolio</a>
-  &nbsp;•&nbsp;
-  <a href="https://sadatnuman1.github.io/MD.-Nazmus-Sadat-Numan-Portfolio/assets/Nazmus-Sadat-Numan-CV.pdf">View CV</a>
-  &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/md-nazmus-sadat-numan/">LinkedIn</a>
-  &nbsp;•&nbsp;
-  <a href="mailto:nazmussadatnuman92@gmail.com">Email</a>
-</p>
+**[About](#about) · [Skills](#skills) · [Professional Work](#professional-work) · [Academic Projects](#academic-projects) · [Research](#research) · [Education](#education) · [Contact](#contact)**
+
+</div>
 
 ---
+
+<a id="about"></a>
 
 ## 👨‍💻 About Me
 
@@ -40,12 +42,14 @@ Alongside software development, I conduct academic research in **reinforcement l
 
 ---
 
+<a id="skills"></a>
+
 ## 🛠️ Technical Skills
 
 ### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,php,cs,java,cpp" alt="TypeScript, JavaScript, Python, PHP, C#, Java, C++" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,php,cs,java,cpp" height="42" alt="TypeScript, JavaScript, Python, PHP, C#, Java, C++" />
 </p>
 
 `TypeScript` • `JavaScript` • `Python` • `PHP` • `C#` • `Java` • `C++` • `SQL` • `PL/SQL`
@@ -53,7 +57,7 @@ Alongside software development, I conduct academic research in **reinforcement l
 ### 🎨 Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,tailwind" alt="React, Next.js, Vue, HTML, CSS, Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,tailwind" height="42" alt="React, Next.js, Vue, HTML, CSS, Tailwind CSS" />
 </p>
 
 `React` • `Next.js` • `Vue 3` • `HTML5` • `CSS3` • `Tailwind CSS` • `Responsive Interfaces`
@@ -61,7 +65,7 @@ Alongside software development, I conduct academic research in **reinforcement l
 ### ⚙️ Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nestjs,laravel,nodejs,dotnet" alt="NestJS, Laravel, Node.js, .NET" />
+  <img src="https://skillicons.dev/icons?i=nestjs,laravel,nodejs,dotnet" height="42" alt="NestJS, Laravel, Node.js, .NET" />
 </p>
 
 `NestJS` • `Laravel` • `Node.js` • `ASP.NET Core MVC` • `REST APIs` • `JWT Authentication` • `Role-Based Access Control`
@@ -73,7 +77,7 @@ Alongside software development, I conduct academic research in **reinforcement l
 ### 🗄️ Databases & ORM
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma" alt="PostgreSQL, MySQL, MongoDB, Prisma" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma" height="42" alt="PostgreSQL, MySQL, MongoDB, Prisma" />
 </p>
 
 `PostgreSQL` • `MySQL` • `MongoDB` • `Oracle Database` • `SQL Server` • `Prisma` • `Eloquent`
@@ -85,7 +89,7 @@ Alongside software development, I conduct academic research in **reinforcement l
 ### 🚀 Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,vercel,cloudflare" alt="Git, GitHub, Postman, Docker, Vercel, Cloudflare" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,vercel,cloudflare" height="42" alt="Git, GitHub, Postman, Docker, Vercel, Cloudflare" />
 </p>
 
 `Git` • `GitHub` • `Git CLI` • `Terminal` • `Shell Commands` • `Postman` • `Docker` • `Vercel` • `Cloudflare`
@@ -98,6 +102,8 @@ Alongside software development, I conduct academic research in **reinforcement l
 
 ---
 
+<a id="professional-work"></a>
+
 ## 🏢 Professional Experience
 
 ### Byte Innovations — Software Engineering Intern
@@ -106,6 +112,16 @@ Alongside software development, I conduct academic research in **reinforcement l
 **1 September 2026 – 30 November 2026 · Three-month internship**
 
 Independent development of full-stack applications and multi-tenant SaaS systems, alongside team contributions to business management software.
+
+| Project | Contribution | Status |
+| :--- | :--- | :--- |
+| [**SHOCHOL · Expert HRMS**](https://shochol.xyz/) | Independent development · HR & payroll | In development |
+| [**Expert ATS**](https://expertats.b-innovations.com/) | Independent development · Recruitment workflows | In development |
+| [**Corporate Website**](https://www.b-innovations.com/) | Independent design, development & deployment | Live |
+| [**Expert POS**](https://expertpos.xyz/) | Selected enhancements · Team collaboration | Team project |
+
+<details>
+<summary><strong>Explore professional projects — responsibilities & technology stacks</strong></summary>
 
 ### 👥 Expert HRMS (SHOCHOL)
 
@@ -122,7 +138,7 @@ Independent development of full-stack applications and multi-tenant SaaS systems
 
 ### 📋 Expert ATS
 
-**Status:** Ongoing development · Private company project  
+**Status:** Ongoing development  
 **Stack:** Next.js 16 • React 19 • NestJS 12 • TypeScript • PostgreSQL • Prisma
 
 - Independently building a multi-tenant applicant tracking platform.
@@ -131,7 +147,7 @@ Independent development of full-stack applications and multi-tenant SaaS systems
 - Building candidate profiles and resume-processing workflows.
 - Developing consent-aware AI-assisted recruitment and shortlisting.
 
-🔒 Private project — no public repository or application URL.
+🔗 [Visit Expert ATS](https://expertats.b-innovations.com/)
 
 ### 🌐 Byte Innovations Corporate Website
 
@@ -157,11 +173,19 @@ Independent development of full-stack applications and multi-tenant SaaS systems
 
 🔗 [Visit Expert POS](https://expertpos.xyz/)
 
+
+</details>
+
 ---
+
+<a id="academic-projects"></a>
 
 ## 🎓 Academic Projects
 
-### 🛒 Solix Clothing Brand — Full-Stack E-commerce Platform
+Selected coursework and independent academic builds. Expand a project for its stack and implementation details.
+
+<details>
+<summary><strong>🛒 Solix Clothing Brand — Full-Stack E-commerce Platform</strong></summary>
 
 **Stack:** NestJS • Next.js • React • PostgreSQL • JWT • RBAC
 
@@ -172,7 +196,10 @@ Independent development of full-stack applications and multi-tenant SaaS systems
 
 🔗 [View Repository](https://github.com/sadatnuman/Solix-Clothing-Brand)
 
-### 📰 NewsArchive — News Management System
+</details>
+
+<details>
+<summary><strong>📰 NewsArchive — News Management System</strong></summary>
 
 **Stack:** ASP.NET Core MVC • C# • SQL Server
 
@@ -183,7 +210,10 @@ Independent development of full-stack applications and multi-tenant SaaS systems
 
 🔗 [View Repository](https://github.com/sadatnuman/News-Archive-.Net-Core-MVC-3-tier-Architecture-)
 
-### 🗃️ University Admission Management System
+</details>
+
+<details>
+<summary><strong>🗃️ University Admission Management System</strong></summary>
 
 **Stack:** Oracle Database • SQL • PL/SQL
 
@@ -193,7 +223,10 @@ Independent development of full-stack applications and multi-tenant SaaS systems
 
 🔗 [View Repository](https://github.com/sadatnuman/University-Admission-Management-System-DBProject)
 
-### 🤖 AI Content Detection using BERT & RoBERTa
+</details>
+
+<details>
+<summary><strong>🤖 AI Content Detection using BERT & RoBERTa</strong></summary>
 
 **Stack:** Python • NLP • Machine Learning • BERT • RoBERTa
 
@@ -203,7 +236,10 @@ Independent development of full-stack applications and multi-tenant SaaS systems
 
 🔗 [View Repository](https://github.com/sadatnuman/AI-Content-Detection-using-BERT-RoBERTa)
 
-### 🛍️ Meat Bazar — Digital Supply Chain & E-commerce
+</details>
+
+<details>
+<summary><strong>🛍️ Meat Bazar — Digital Supply Chain & E-commerce</strong></summary>
 
 **Stack:** PHP • MySQL • JavaScript • HTML • CSS
 
@@ -213,7 +249,10 @@ Independent development of full-stack applications and multi-tenant SaaS systems
 
 🔗 [View Repository](https://github.com/sadatnuman/Meat-Bazar-Digital-Supply-Chain-E-commerce-System-)
 
-### 📰 Fake News Detection
+</details>
+
+<details>
+<summary><strong>📰 Fake News Detection</strong></summary>
 
 **Stack:** Python • Scikit-learn • NLTK • TF-IDF
 
@@ -223,7 +262,10 @@ Independent development of full-stack applications and multi-tenant SaaS systems
 
 🔗 [View Repository](https://github.com/sadatnuman/Fake-News-Detection-using-NLP-MachineLearning)
 
-### 🌆 Seaside City — 2D Animated Simulation
+</details>
+
+<details>
+<summary><strong>🌆 Seaside City — 2D Animated Simulation</strong></summary>
 
 **Stack:** C++ • OpenGL • GLUT
 
@@ -233,7 +275,10 @@ Independent development of full-stack applications and multi-tenant SaaS systems
 
 🔗 [View Repository](https://github.com/sadatnuman/Seaside-City-2D-Animated-Graphics-Simulation)
 
-### ✈️ Let's Travel — Travel Management System
+</details>
+
+<details>
+<summary><strong>✈️ Let's Travel — Travel Management System</strong></summary>
 
 **Stack:** C# • .NET WinForms • SQL Server
 
@@ -243,7 +288,10 @@ Independent development of full-stack applications and multi-tenant SaaS systems
 
 🔗 [View Repository](https://github.com/sadatnuman/Let-s-Travel-Travel-Management-System)
 
-### 📚 Vidyasagar Book Store Management System
+</details>
+
+<details>
+<summary><strong>📚 Vidyasagar Book Store Management System</strong></summary>
 
 **Stack:** Java • Swing
 
@@ -253,7 +301,11 @@ Independent development of full-stack applications and multi-tenant SaaS systems
 
 🔗 [View Repository](https://github.com/sadatnuman/Vidyasagar-Book-Store-Management-System)
 
+</details>
+
 ---
+
+<a id="research"></a>
 
 ## 🔬 Research Experience
 
@@ -277,22 +329,14 @@ Independent development of full-stack applications and multi-tenant SaaS systems
 
 ---
 
+<a id="education"></a>
+
 ## 🎓 Education
 
-### American International University-Bangladesh (AIUB)
-
-**BSc in Computer Science and Engineering**  
-2026 · Final Year
-
-- **Major:** Software Engineering
-- **CGPA:** 3.70 / 4.00
-
-### Trust College, Uttara
-
-**Higher Secondary Certificate — Science**  
-2021
-
-- **GPA:** 5.00 / 5.00
+| Qualification | Institution | Year / Status | Result |
+| :--- | :--- | :--- | :--- |
+| **BSc in Computer Science and Engineering** · Major: Software Engineering | American International University-Bangladesh (AIUB) | 2026 · Final Year | **3.70 / 4.00** |
+| **Higher Secondary Certificate** · Science | Trust College, Uttara | 2021 | **5.00 / 5.00** |
 
 ---
 
@@ -310,6 +354,8 @@ Independent development of full-stack applications and multi-tenant SaaS systems
 
 ---
 
+<a id="contact"></a>
+
 ## 🤝 Connect With Me
 
 - 🌐 **Portfolio:** [sadatnuman1.github.io/MD.-Nazmus-Sadat-Numan-Portfolio](https://sadatnuman1.github.io/MD.-Nazmus-Sadat-Numan-Portfolio/)
@@ -317,7 +363,7 @@ Independent development of full-stack applications and multi-tenant SaaS systems
 - 🐙 **GitHub:** [@sadatnuman](https://github.com/sadatnuman)
 - 📧 **Email:** [nazmussadatnuman92@gmail.com](mailto:nazmussadatnuman92@gmail.com)
 - 📄 **CV:** [View CV](https://sadatnuman1.github.io/MD.-Nazmus-Sadat-Numan-Portfolio/assets/Nazmus-Sadat-Numan-CV.pdf)
-- 📍 **Location:** Dhaka, Bangladesh
+- 📍 **Location:** Bashundhara R/A, Dhaka, Bangladesh
 
 ---
 
