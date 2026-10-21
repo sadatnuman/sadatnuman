@@ -1,22 +1,25 @@
 <div align="center">
 
-<p><strong>SOFTWARE ENGINEERING · FULL-STACK DEVELOPMENT · MULTI-TENANT SAAS</strong></p>
-
-# Hi, I'm MD. Nazmus Sadat Numan 👋
-
-### Building useful software, from interface to infrastructure.
-
-Final-year CSE student at **AIUB** · Software Engineering Intern at **Byte Innovations**  
-Bashundhara R/A, Dhaka, Bangladesh
+<h1>MD. Nazmus Sadat Numan</h1>
+<h3>Software Engineering</h3>
+<p>Full-Stack Applications &nbsp; / &nbsp; Multi-Tenant SaaS &nbsp; / &nbsp; Secure APIs</p>
 
 <p>
-  <a href="https://sadatnuman1.github.io/MD.-Nazmus-Sadat-Numan-Portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-Visit_Website-0284C7?style=for-the-badge" alt="Visit my portfolio" /></a>
-  <a href="https://sadatnuman1.github.io/MD.-Nazmus-Sadat-Numan-Portfolio/assets/Nazmus-Sadat-Numan-CV.pdf?v=20261021"><img src="https://img.shields.io/badge/CV-View_Resume-334155?style=for-the-badge" alt="View my CV" /></a>
-  <a href="https://www.linkedin.com/in/md-nazmus-sadat-numan/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge" alt="Connect on LinkedIn" /></a>
-  <a href="mailto:nazmussadatnuman92@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Let's_Talk-0F766E?style=for-the-badge" alt="Send me an email" /></a>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,vue,nestjs,laravel,postgres,docker&amp;theme=dark" height="44" alt="Next.js, React, Vue, NestJS, Laravel, PostgreSQL, Docker" />
 </p>
 
-**[About](#about) · [Skills](#skills) · [Professional Work](#professional-work) · [Academic Projects](#academic-projects) · [Research](#research) · [Education](#education) · [Contact](#contact)**
+<p><strong>Turning complex workflows into useful software.</strong><br />
+Software Engineering Intern at Byte Innovations · Final-year CSE at AIUB</p>
+
+<p>
+  <a href="https://sadatnuman1.github.io/MD.-Nazmus-Sadat-Numan-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-0284C7?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iOSIvPjxwYXRoIGQ9Ik0zIDEyaDE4TTEyIDNhMTggMTggMCAwIDEgMCAxOCAxOCAxOCAwIDAgMSAwLTE4WiIvPjwvc3ZnPg%3D%3D" height="32" alt="Portfolio" /></a>
+  <a href="https://sadatnuman1.github.io/MD.-Nazmus-Sadat-Numan-Portfolio/assets/Nazmus-Sadat-Numan-CV.pdf?v=20261021"><img src="https://img.shields.io/badge/View%20CV-475569?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHBhdGggZD0iTTE0IDJINmEyIDIgMCAwIDAtMiAydjE2YTIgMiAwIDAgMCAyIDJoMTJhMiAyIDAgMCAwIDItMlY4WiIvPjxwYXRoIGQ9Ik0xNCAydjZoNk04IDEzaDhNOCAxN2g2Ii8%2BPC9zdmc%2B" height="32" alt="View CV" /></a>
+  <a href="https://www.linkedin.com/in/md-nazmus-sadat-numan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHJlY3QgeD0iMyIgeT0iOCIgd2lkdGg9IjQiIGhlaWdodD0iMTMiIGZpbGw9IndoaXRlIiBzdHJva2U9Im5vbmUiLz48Y2lyY2xlIGN4PSI1IiBjeT0iNCIgcj0iMiIgZmlsbD0id2hpdGUiIHN0cm9rZT0ibm9uZSIvPjxwYXRoIGQ9Ik0xMSAyMVY5aDR2MmMyLTQgNy0yIDcgMnY4aC00di03YzAtMy0zLTMtMyAwdjdaIiBmaWxsPSJ3aGl0ZSIgc3Ryb2tlPSJub25lIi8%2BPC9zdmc%2B" height="32" alt="LinkedIn" /></a>
+  <a href="mailto:nazmussadatnuman92@gmail.com"><img src="https://img.shields.io/badge/Email-0F766E?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHJlY3QgeD0iMiIgeT0iNCIgd2lkdGg9IjIwIiBoZWlnaHQ9IjE2IiByeD0iMiIvPjxwYXRoIGQ9Im0yIDYgMTAgN0wyMiA2Ii8%2BPC9zdmc%2B" height="32" alt="Email" /></a>
+  <a href="https://github.com/sadatnuman"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" height="32" alt="GitHub" /></a>
+</p>
+
+<p><a href="#about">About</a> &nbsp;·&nbsp; <a href="#skills">Skills</a> &nbsp;·&nbsp; <a href="#professional-work">Professional Work</a> &nbsp;·&nbsp; <a href="#academic-projects">Projects</a> &nbsp;·&nbsp; <a href="#research">Research</a> &nbsp;·&nbsp; <a href="#education">Education</a></p>
 
 </div>
 
@@ -34,19 +37,18 @@ My work includes responsive interfaces, backend APIs, relational database design
 
 Alongside software development, I conduct academic research in **reinforcement learning** and **requirements engineering for remote-first SaaS teams**.
 
-- 🏢 Building multi-tenant HR and recruitment systems.
-- ⚙️ Developing secure APIs and database-driven applications.
-- 🌐 Working with Laravel, NestJS, Next.js, React, and Vue.
-- 🔬 Researching adaptive human recognition and requirements engineering.
-- 🤝 Interested in software engineering opportunities and collaboration.
+| 🧩 Build | 🔬 Research | 📍 Based in |
+| :--- | :--- | :--- |
+| Full-stack applications, HRMS, ATS & secure APIs | Reinforcement learning & requirements engineering | Bashundhara R/A, Dhaka, Bangladesh |
+
 
 ---
 
 <a id="skills"></a>
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Toolkit
 
-### 💻 Programming Languages
+### 💻 Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=ts,js,python,php,cs,java,cpp" height="42" alt="TypeScript, JavaScript, Python, PHP, C#, Java, C++" />
@@ -54,7 +56,7 @@ Alongside software development, I conduct academic research in **reinforcement l
 
 `TypeScript` • `JavaScript` • `Python` • `PHP` • `C#` • `Java` • `C++` • `SQL` • `PL/SQL`
 
-### 🎨 Frontend Development
+### 🎨 Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,tailwind" height="42" alt="React, Next.js, Vue, HTML, CSS, Tailwind CSS" />
@@ -62,7 +64,7 @@ Alongside software development, I conduct academic research in **reinforcement l
 
 `React` • `Next.js` • `Vue 3` • `HTML5` • `CSS3` • `Tailwind CSS` • `Responsive Interfaces`
 
-### ⚙️ Backend Development
+### ⚙️ Backend & Architecture
 
 <p>
   <img src="https://skillicons.dev/icons?i=nestjs,laravel,nodejs,dotnet" height="42" alt="NestJS, Laravel, Node.js, .NET" />
@@ -94,7 +96,10 @@ Alongside software development, I conduct academic research in **reinforcement l
 
 `Git` • `GitHub` • `Git CLI` • `Terminal` • `Shell Commands` • `Postman` • `Docker` • `Vercel` • `Cloudflare`
 
-**Operating Systems:** `macOS (Unix-based)` • `Windows 11`
+<p>
+  <img src="https://img.shields.io/badge/macOS-111827?style=flat-square&amp;logo=apple&amp;logoColor=white" alt="macOS" />
+  <img src="https://img.shields.io/badge/Windows_11-0078D4?style=flat-square" alt="Windows 11" />
+</p>
 
 ### 🔬 Research & Applied AI
 
@@ -115,13 +120,13 @@ Independent development of full-stack applications and multi-tenant SaaS systems
 
 | Project | Contribution | Status |
 | :--- | :--- | :--- |
-| [**SHOCHOL · Expert HRMS**](https://shochol.xyz/) | Independent development · HR & payroll | In development |
-| [**Expert ATS**](https://expertats.b-innovations.com/) | Independent development · Recruitment workflows | In development |
-| [**Corporate Website**](https://www.b-innovations.com/) | Independent design, development & deployment | Live |
-| [**Expert POS**](https://expertpos.xyz/) | Selected enhancements · Team collaboration | Team project |
+| 👥 [**SHOCHOL · Expert HRMS**](https://shochol.xyz/) | Independent development · HR & payroll | In development |
+| 📋 [**Expert ATS**](https://expertats.b-innovations.com/) | Independent development · Recruitment workflows | In development |
+| 🌐 [**Corporate Website**](https://www.b-innovations.com/) | Independent design, development & deployment | Live |
+| 🧾 [**Expert POS**](https://expertpos.xyz/) | Selected enhancements · Team collaboration | Team project |
 
 <details>
-<summary><strong>Explore professional projects — responsibilities & technology stacks</strong></summary>
+<summary><strong>↳ Explore professional projects — responsibilities & technology stacks</strong></summary>
 
 ### 👥 Expert HRMS (SHOCHOL)
 
@@ -358,12 +363,18 @@ Selected coursework and independent academic builds. Expand a project for its st
 
 ## 🤝 Connect With Me
 
-- 🌐 **Portfolio:** [sadatnuman1.github.io/MD.-Nazmus-Sadat-Numan-Portfolio](https://sadatnuman1.github.io/MD.-Nazmus-Sadat-Numan-Portfolio/)
-- 💼 **LinkedIn:** [MD. Nazmus Sadat Numan](https://www.linkedin.com/in/md-nazmus-sadat-numan/)
-- 🐙 **GitHub:** [@sadatnuman](https://github.com/sadatnuman)
-- 📧 **Email:** [nazmussadatnuman92@gmail.com](mailto:nazmussadatnuman92@gmail.com)
-- 📄 **CV:** [View CV](https://sadatnuman1.github.io/MD.-Nazmus-Sadat-Numan-Portfolio/assets/Nazmus-Sadat-Numan-CV.pdf)
-- 📍 **Location:** Bashundhara R/A, Dhaka, Bangladesh
+Have a software engineering opportunity or a project in mind? Let's connect.
+
+<p align="center">
+  <a href="https://sadatnuman1.github.io/MD.-Nazmus-Sadat-Numan-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-0284C7?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iOSIvPjxwYXRoIGQ9Ik0zIDEyaDE4TTEyIDNhMTggMTggMCAwIDEgMCAxOCAxOCAxOCAwIDAgMSAwLTE4WiIvPjwvc3ZnPg%3D%3D" height="32" alt="Portfolio" /></a>
+  <a href="https://sadatnuman1.github.io/MD.-Nazmus-Sadat-Numan-Portfolio/assets/Nazmus-Sadat-Numan-CV.pdf?v=20261021"><img src="https://img.shields.io/badge/View%20CV-475569?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHBhdGggZD0iTTE0IDJINmEyIDIgMCAwIDAtMiAydjE2YTIgMiAwIDAgMCAyIDJoMTJhMiAyIDAgMCAwIDItMlY4WiIvPjxwYXRoIGQ9Ik0xNCAydjZoNk04IDEzaDhNOCAxN2g2Ii8%2BPC9zdmc%2B" height="32" alt="View CV" /></a>
+  <a href="https://www.linkedin.com/in/md-nazmus-sadat-numan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHJlY3QgeD0iMyIgeT0iOCIgd2lkdGg9IjQiIGhlaWdodD0iMTMiIGZpbGw9IndoaXRlIiBzdHJva2U9Im5vbmUiLz48Y2lyY2xlIGN4PSI1IiBjeT0iNCIgcj0iMiIgZmlsbD0id2hpdGUiIHN0cm9rZT0ibm9uZSIvPjxwYXRoIGQ9Ik0xMSAyMVY5aDR2MmMyLTQgNy0yIDcgMnY4aC00di03YzAtMy0zLTMtMyAwdjdaIiBmaWxsPSJ3aGl0ZSIgc3Ryb2tlPSJub25lIi8%2BPC9zdmc%2B" height="32" alt="LinkedIn" /></a>
+  <a href="mailto:nazmussadatnuman92@gmail.com"><img src="https://img.shields.io/badge/Email-0F766E?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHJlY3QgeD0iMiIgeT0iNCIgd2lkdGg9IjIwIiBoZWlnaHQ9IjE2IiByeD0iMiIvPjxwYXRoIGQ9Im0yIDYgMTAgN0wyMiA2Ii8%2BPC9zdmc%2B" height="32" alt="Email" /></a>
+  <a href="https://github.com/sadatnuman"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" height="32" alt="GitHub" /></a>
+</p>
+
+<p align="center">📍 Bashundhara R/A, Dhaka, Bangladesh<br />
+<a href="mailto:nazmussadatnuman92@gmail.com">nazmussadatnuman92@gmail.com</a></p>
 
 ---
 
