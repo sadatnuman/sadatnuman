@@ -5,7 +5,7 @@
 <p>Full-Stack Applications &nbsp; / &nbsp; Multi-Tenant SaaS &nbsp; / &nbsp; Secure APIs</p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,vue,nestjs,laravel,postgres,docker&amp;theme=dark" height="44" alt="Next.js, React, Vue, NestJS, Laravel, PostgreSQL, Docker" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,vue,nestjs,laravel,mongodb,postgres,docker&amp;theme=dark" height="44" alt="Next.js, React, Vue, NestJS, Laravel, MongoDB, PostgreSQL, Docker" />
 </p>
 
 <p><strong>Turning complex workflows into useful software.</strong><br />
@@ -29,11 +29,11 @@ Software Engineering Intern at Byte Innovations · Final-year CSE at AIUB</p>
 
 ## 👨‍💻 About Me
 
-I am a final-year **Computer Science and Engineering** student at **American International University-Bangladesh (AIUB)**, majoring in **Software Engineering**, with a **CGPA of 3.70 / 4.00**.
+I am a final-year **Computer Science and Engineering** student at **American International University-Bangladesh (AIUB)**, majoring in **Software Engineering**, with a **CGPA of 3.70 / 4.00**. All courses are completed; my internship is ongoing.
 
 At **Byte Innovations**, I independently develop full-stack applications and multi-tenant SaaS systems covering HR management, recruitment workflows, and a corporate career portal. I also collaborate on selected enhancements to a business management and POS application.
 
-My work includes responsive interfaces, backend APIs, relational database design, secure authentication, role-based authorization, and application deployment.
+My work includes responsive interfaces, backend APIs, relational and document database design, secure authentication, role-based authorization, and application deployment. I also build independent projects, including a bilingual doctor appointment platform and a clothing e-commerce demo for Bangladesh.
 
 Alongside software development, I conduct academic research in **reinforcement learning** and **requirements engineering for remote-first SaaS teams**.
 
@@ -62,15 +62,15 @@ Alongside software development, I conduct academic research in **reinforcement l
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,tailwind" height="42" alt="React, Next.js, Vue, HTML, CSS, Tailwind CSS" />
 </p>
 
-`React` • `Next.js` • `Vue 3` • `HTML5` • `CSS3` • `Tailwind CSS` • `Responsive Interfaces`
+`React` • `Next.js` • `Vue 3` • `HTML5` • `CSS3` • `Tailwind CSS` • `Responsive Interfaces` • `shadcn/ui` • `TanStack Query` • `Recharts`
 
 ### ⚙️ Backend & Architecture
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nestjs,laravel,nodejs,dotnet" height="42" alt="NestJS, Laravel, Node.js, .NET" />
+  <img src="https://skillicons.dev/icons?i=nestjs,laravel,nodejs,express,dotnet" height="42" alt="NestJS, Laravel, Node.js, Express, .NET" />
 </p>
 
-`NestJS` • `Laravel` • `Node.js` • `ASP.NET Core MVC` • `REST APIs` • `JWT Authentication` • `Role-Based Access Control`
+`NestJS` • `Laravel` • `Node.js` • `Express` • `ASP.NET Core MVC` • `REST APIs` • `JWT Authentication` • `Role-Based Access Control`
 
 **Architecture & Application Design**
 
@@ -82,7 +82,7 @@ Alongside software development, I conduct academic research in **reinforcement l
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma" height="42" alt="PostgreSQL, MySQL, MongoDB, Prisma" />
 </p>
 
-`PostgreSQL` • `MySQL` • `MongoDB` • `Oracle Database` • `SQL Server` • `Prisma` • `Eloquent`
+`PostgreSQL` • `MySQL` • `MongoDB` • `Oracle Database` • `SQL Server` • `Prisma` • `Eloquent` • `Mongoose`
 
 **Database Development**
 
@@ -91,15 +91,23 @@ Alongside software development, I conduct academic research in **reinforcement l
 ### 🚀 Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,vercel,cloudflare" height="42" alt="Git, GitHub, Postman, Docker, Vercel, Cloudflare" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,vercel,netlify,cloudflare" height="42" alt="Git, GitHub, Postman, Docker, Vercel, Netlify, Cloudflare" />
 </p>
 
-`Git` • `GitHub` • `Git CLI` • `Terminal` • `Shell Commands` • `Postman` • `Docker` • `Vercel` • `Cloudflare`
+`Git` • `GitHub` • `Git CLI` • `Terminal` • `Shell Commands` • `Postman` • `Docker` • `Vercel` • `Cloudflare` • `Netlify` • `Render` • `Cloudinary`
 
 <p>
   <img src="https://img.shields.io/badge/macOS-111827?style=flat-square&amp;logo=apple&amp;logoColor=white" alt="macOS" />
   <img src="https://img.shields.io/badge/Windows_11-0078D4?style=flat-square" alt="Windows 11" />
 </p>
+
+### 🧪 Testing & Validation
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vitest,postman" height="42" alt="Vitest, Postman" />
+</p>
+
+`Playwright` • `Vitest` • `Zod` • `Automated Tests`
 
 ### 🔬 Research & Applied AI
 
@@ -187,19 +195,37 @@ Independent development of full-stack applications and multi-tenant SaaS systems
 
 ## 🎓 Academic Projects
 
-Selected coursework and independent academic builds. Expand a project for its stack and implementation details.
+Coursework and independent full-stack projects. Expand a project for its stack, implementation details, and available live demos.
+
+<details open>
+<summary><strong>🩺 Doctor Tracker — Online Doctor Appointment Platform</strong></summary>
+
+🔗 [Live Application](https://doctor-tracker-gamma-seven.vercel.app)
+
+**Stack:** Next.js 16 • React 19 • TypeScript • Tailwind CSS • shadcn/ui • TanStack Query • Recharts • Node.js • Express • MongoDB Atlas • Mongoose • Zod • Playwright • Vitest • Vercel • Render
+
+- Built a bilingual platform for Admin, Doctor, and Patient roles, with admin analytics, doctor schedules, specialty search, and appointment booking.
+- Prevented double-booking using database constraints and five-minute slot holds.
+- Implemented secure sessions, indexed search, receipts, and refunds.
+- Added **simulated card, bKash, and Nagad payments**, along with automated tests.
+
+💻 [Frontend Repository](https://github.com/sadatnuman/doctor-tracker-frontend) · [Backend Repository](https://github.com/sadatnuman/doctor-tracker-backend)
+
+</details>
 
 <details>
 <summary><strong>🛒 Solix Clothing Brand — Full-Stack E-commerce Platform</strong></summary>
 
-**Stack:** NestJS • Next.js • React • PostgreSQL • JWT • RBAC
+🔗 [Live Demo](https://solix-bangladesh.netlify.app)
 
-- Developed secure authentication and role-based access.
-- Built cart, checkout, and order-processing workflows.
-- Designed a normalized PostgreSQL database.
-- Implemented inventory validation, payment workflows, administrative analytics, and email notifications.
+**Stack:** Next.js 16 • React 19 • NestJS 11 • TypeScript • MongoDB Atlas • Mongoose • Cloudinary • Netlify • Render
 
-🔗 [View Repository](https://github.com/sadatnuman/Solix-Clothing-Brand)
+- Independently developed and deployed a clothing storefront covering product discovery, cart, wishlist, checkout, payments, and order tracking.
+- Built cancellation, return, and size-exchange workflows for after-sales support.
+- Designed the MongoDB database architecture and an RBAC admin/staff studio.
+- Implemented catalog and inventory management, fulfilment, coupons, reviews, customer support, Cloudinary media uploads, staff permissions, and audit logs.
+
+💻 [View Repository](https://github.com/sadatnuman/Solix-Clothing-Brand)
 
 </details>
 
@@ -340,8 +366,10 @@ Selected coursework and independent academic builds. Expand a project for its st
 
 | Qualification | Institution | Year / Status | Result |
 | :--- | :--- | :--- | :--- |
-| **BSc in Computer Science and Engineering** · Major: Software Engineering | American International University-Bangladesh (AIUB) | 2026 · Final Year | **3.70 / 4.00** |
+| **BSc in Computer Science and Engineering** · Major: Software Engineering | American International University-Bangladesh (AIUB) | 2026 · Final Year; coursework completed, internship ongoing | **3.70 / 4.00** |
 | **Higher Secondary Certificate** · Science | Trust College, Uttara | 2021 | **5.00 / 5.00** |
+
+**Academic timeline:** All courses completed; only the internship is ongoing. Thesis and internship end on **30 November 2026**.
 
 ---
 
